@@ -177,4 +177,5 @@ The security assessment on DVWA using OWASP ZAP revealed significant vulnerabili
 ![report](https://github.com/user-attachments/assets/016eccca-a401-457e-8cec-a19129d5abb2)
 ![exx](https://github.com/user-attachments/assets/76bbcf8e-ec51-4fec-a745-88ee88920c64)
 
+[ZAP Scanning Report.pdf](https://github.com/user-attachments/files/17030393/ZAP.Scanning.Report.pdf)
 
